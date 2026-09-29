@@ -55,8 +55,8 @@ vitproj/
 ```
 
 ## Screenshot 
-![expense tracker](screenshotexpence.png)
-![expense tracker](screenshotexpence2.png)
+![expense tracker](screenshotexpense.png)
+![expense tracker](screenshotexpense2.png)
 
 ## Diagrams
 
